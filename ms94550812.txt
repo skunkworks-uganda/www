@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "skunkworks.ug",
+  "Id": "972e8de4-e365-43a3-99ec-c86a0cc249e8"
+}
