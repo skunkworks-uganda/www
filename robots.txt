@@ -2,4 +2,3 @@
 Allow: /
 
 Sitemap: https://skunkworks-uganda.github.io/www/sitemap.xml
-
