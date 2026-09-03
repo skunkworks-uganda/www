@@ -1,4 +1,4 @@
 ﻿User-agent: *
 Allow: /
 
-Sitemap: https://skunkworks-uganda.github.io/www/sitemap.xml
+Sitemap: https://skunkworks.ug/sitemap.xml
